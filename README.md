@@ -90,6 +90,8 @@ npm run dev
 ```
 Then open your browser at [http://localhost:5173](http://localhost:5173)
 
+---
+
 ## Usage
 
 -   Upload files through the web interface.
